@@ -1,6 +1,6 @@
 # 2-Linear_Regression
 
-This repository is meant to provide examples of implementing simple and multiple linear regressions in R
+This repository is meant to provide examples of implementing simple and multiple linear regressions in R.
 
 ## Getting Started
 
