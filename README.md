@@ -13,6 +13,7 @@ If using this code within R Studio, collapse all sections by pressing Alt + O fo
 ### Sections:
 
 1.) Simple Linear Regression 
+
 2.) Multiple Linear Regression
 
 
