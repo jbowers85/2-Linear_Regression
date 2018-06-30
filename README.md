@@ -1,6 +1,6 @@
-# 2-Linear_Regression
+# Linear Regression
 
-This repository is meant to provide examples of implementing simple and multiple linear regressions in R.
+This repository is meant to provide examples of implementing simple and multiple linear regressions with Old Faithful and mtcars data in R.
 
 **Simple Linear Regression**: 1 predictor variable
 
